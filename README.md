@@ -1,16 +1,19 @@
-# Drum Machine made with Create React App and React Hooks
+# Drum Machine made with Create React App, Bootstrap and React Hooks
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Index.html
 
-### `Lines 7-8`
-React CDNs: help make site more responsive and load more quickly.
-### `Line 10`
-Babel compiler converts JSX into JavaScript.
+### `Line 6`
+Bootstrap CDN from bootstrapcdn.com adds CSS styling.
 
 ## Index.js
 
-xxxxxx
-### `zzzzzz`
+### `Lines 6-57`
+Clips taken from Bank 1 in original FCC example to use URLs for audio.
+
+### `Line 84`
+Defines background and text colours, vertical height fill.
+### `Line 186`
+Render method puts whatever is returned from the App function directly into the div with the id=root (line 11) of the .html file. 
 
