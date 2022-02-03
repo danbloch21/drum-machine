@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `Lines 7-8`
 React CDNs: help make site more responsive and load more quickly.
+### `Line 10`
+Babel compiler converts JSX into JavaScript.
 
 ## Index.js
 
